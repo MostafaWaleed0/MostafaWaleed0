@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Waleed</h1>
-<h3 align="center">A enthusiastic frontend developer from Egypt</h3>
+<h3 align="center">A enthusiastic frontend developer from <mark style="color: #c81025">Egypt</mark></h3>
 
 - 🌱 I’m currently learning **Node.js**
 
