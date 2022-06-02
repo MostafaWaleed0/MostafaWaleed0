@@ -7,7 +7,7 @@
 
 ---
 ## Skills
-- 🧱 HTML, <a href="https://mozilla.github.io/nunjucks/">Nunjucks</a>
+- 🧱 HTML, pug.js, <a href="https://mozilla.github.io/nunjucks/">Nunjucks</a>
 - 👨‍💻 TypeScript, JavaScript, Jest
 - ⚙️ React, Redux
 - 👁️ SASS, CSS, Styled Components
