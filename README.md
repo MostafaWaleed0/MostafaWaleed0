@@ -11,7 +11,7 @@
 ## Skills
 - 🧱 HTML, pug.js, <a href="https://mozilla.github.io/nunjucks/">Nunjucks</a>
 - 👨‍💻 TypeScript, JavaScript, Jest
-- ⚙️ React, Redux
+- ⚙️ React, Redux, Next
 - 👁️ SASS, CSS, Styled Components
 - 📚 Bootstrap, Tailwind CSS, Material UI
 - 🗃 webpack, <a href="https://www.11ty.dev/">Eleventy</a>
