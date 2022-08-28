@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Waleed</h1>
 <h3 align="center">A enthusiastic frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafawaleed3&label=Profile%20views&color=0e75b6&style=flat" alt="mostafawaleed3" /> </p>
-
 <p align="left"> <a href="https://twitter.com/mostafa85341305" target="blank"><img src="https://img.shields.io/twitter/follow/mostafa85341305?logo=twitter&style=for-the-badge" alt="mostafa85341305" /></a> </p>
 
 - 🔭 I’m currently working as **Freelancer**
