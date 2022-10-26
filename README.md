@@ -24,8 +24,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mostafawaleed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mostafawaleed" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafawaleed3&show_icons=true&locale=en&layout=compact" alt="mostafawaleed3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafawaleed3&show_icons=true&locale=en" alt="mostafawaleed3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafawaleed3&" alt="mostafawaleed3" /></p>
