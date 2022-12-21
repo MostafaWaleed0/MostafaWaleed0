@@ -19,7 +19,7 @@
 <a href="https://codepen.io/mostafawaleed3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mostafawaleed3" height="30" width="40" /></a>
 <a href="https://twitter.com/mostafa85341305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafa85341305" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mostafa-waleed-b06034217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-waleed-b06034217" height="30" width="40" /></a>
-<a href="/https://mostafawaleed.me/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mostafawaleed.me/feed.xml" height="30" width="40" /></a>
+<a href="https://mostafawaleed.me/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mostafawaleed.me/feed.xml" height="30" width="40" /></a>
 </p>
 
 
