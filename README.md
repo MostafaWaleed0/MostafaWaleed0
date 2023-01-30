@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Waleed</h1>
 <h3 align="center">Frontend developer from Egypt</h3>
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FNKEt9elQ5cR68%2Fgiphy.gif?table=block&id=8040157e-b61b-416f-9cfd-9838a230cd16&spaceId=dcad0fcd-8107-4abc-96f3-a3773aad8ad8&userId=97a6ed62-86f5-4502-9a5a-b14185b7c554&cache=v2"  width="2000" height="400">
+<img src="https://www.notion.so/image/https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FNKEt9elQ5cR68%2Fgiphy.gif?table=block&id=8040157e-b61b-416f-9cfd-9838a230cd16&spaceId=dcad0fcd-8107-4abc-96f3-a3773aad8ad8&userId=97a6ed62-86f5-4502-9a5a-b14185b7c554&cache=v2"  width="2000" height="380">
 
 ## <img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://github.githubassets.com/images/icons/emoji/bowtie.png" height="20" width="20" align="absmiddle"> My Bio
 
