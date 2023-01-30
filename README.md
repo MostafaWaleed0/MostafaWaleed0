@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [mostafawaleed.me/projects](https://motafawaleed.me/projects)
+- 👨‍💻 All of my projects are available at [mostafawaleed.me/projects](https://mostafawaleed.me/projects)
 
 - 💬 Ask me about **React, Nextjs and TypeScript**
 
