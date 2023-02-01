@@ -19,11 +19,11 @@
 
 - ⚡ Fun fact **OOP is not important 😊**
 
-## 💌 Blog posts and articles:
+## 💌 Blog posts and articles
 
 - 📝 I regularly write articles on [my blog](https://mostafawaleed.me/blog)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="left" style="display: flex; justify-content:center; align-item: center; gap: 1em;">
 <a href="http://www.github.com/mostafawaleed3" ><img src="https://github-readme-stats.vercel.app/api?username=mostafawaleed3&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="mostafawaleed3's GitHub stats" /></a>
