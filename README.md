@@ -26,12 +26,12 @@
 ## 📊 GitHub Stats
 
 <p align="left" style="display: flex; justify-content:center; align-item: center; gap: 1em;">
-<a href="http://www.github.com/mostafawaleed3" ><img src="https://github-readme-stats.vercel.app/api?username=mostafawaleed3&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="mostafawaleed3's GitHub stats" /></a>
-<a href="https://github.com/mostafawaleed3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafawaleed3&langs_count=9&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Mostafa-MW" ><img src="https://github-readme-stats.vercel.app/api?username=Mostafa-MW&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mostafa-MW's GitHub stats" /></a>
+<a href="https://github.com/Mostafa-MW" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-MW&langs_count=9&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 <div style="display: flex;">
-<a href="http://www.github.com/mostafawaleed3" style="margin-inline:auto;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafawaleed3&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Mostafa-MW" style="margin-inline:auto;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-MW&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 ## 💻 Languages
