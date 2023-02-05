@@ -36,7 +36,11 @@
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,bootstrap,tailwind,webpack,jest,pug,styledcomponents,materialui,sass,regex,powershell,md" style="max-width: 100%;">
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,webpack,jest,pug,styledcomponents,materialui,sass,regex,powershell,md" style="max-width: 100%;">
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,nextjs" style="max-width: 100%;">
 
 ## 🔥 Tools
 
