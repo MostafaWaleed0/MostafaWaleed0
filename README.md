@@ -5,7 +5,7 @@
 
 ## <img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://github.githubassets.com/images/icons/emoji/bowtie.png" height="20" width="20" align="absmiddle"> My Bio
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafawaleed3&label=Profile%20views&color=0e75b6&style=flat" alt="mostafawaleed3" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-mw&label=Profile%20views&color=0e75b6&style=flat" alt="mostafawaleed3" /> </p>
  
 - 🔭 I’m currently working on [my blog](https://mostafawaleed.me/blog)
 
