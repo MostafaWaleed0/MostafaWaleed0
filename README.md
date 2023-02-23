@@ -4,7 +4,6 @@
 Hi, I'm Mostafa Waleed, a front-end developer from Egypt with a passion for web development.
  
 - 🔭 I’m currently working on [my blog](https://mostafawaleed.me/blog)
-- 🌱 I’m currently learning **Backend development**
 - 💬 Ask me about web development
 - 📫 How to reach me **mwcontact206@proton.me**
 
