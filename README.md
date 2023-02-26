@@ -1,7 +1,7 @@
 ### Hey 👋
 
 
-Hi, I'm Mostafa Waleed, a front-end developer from Egypt with a passion for web development.
+Hi, I'm Mostafa Waleed, a front-end developer from Egypt.
  
 - 🔭 I’m currently working on [my blog](https://mostafawaleed.me/blog)
 - 💬 [Ask me](https://mostafawaleed.me/contact) about web development
