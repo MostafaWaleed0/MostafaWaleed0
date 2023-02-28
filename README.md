@@ -9,4 +9,4 @@ Hi, I'm Mostafa Waleed, a front-end developer from Egypt.
 🌍 Find me on the web:
  - Tweets: [@MostafaAmr206](https://twitter.com/MostafaAmr206)
  - Blog: [mostafawaleed.me](https://mostafawaleed.me/)
- - LinkedIn: [mostafawaleed](https://www.linkedin.com/in/mostafawaleed/)
+ - LinkedIn: [in/mostafawaleed](https://www.linkedin.com/in/mostafawaleed/)
