@@ -7,6 +7,6 @@ Hi, I'm Mostafa Waleed, a front-end developer from Egypt.
 - 💬 [Ask me](https://mostafawaleed.me/contact) about web development
 
 🌍 Find me on the web:
- - Blog: [mostafawaleed.me](https://mostafawaleed.me/)
+ - Blog: [mostafawaleed.me](https://mostafawaleed.me/blog)
  - Tweets: [@MostafaAmr206](https://twitter.com/MostafaAmr206)
  - LinkedIn: [in/mostafawaleed](https://www.linkedin.com/in/mostafawaleed/)
