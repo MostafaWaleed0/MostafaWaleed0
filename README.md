@@ -1,6 +1,5 @@
 ### Hey 👋
 
-
 Hi, I'm Mostafa Waleed, a front-end developer from Egypt.
  
 - 🔭 I’m currently working on [my blog](https://mostafawaleed.me/blog)
