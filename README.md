@@ -7,6 +7,6 @@ Hi, I'm Mostafa Waleed, a front-end developer from Egypt.
  - 💬 [Ask me](https://mwtech.vercel.app/contact) about web development
 
 🌍 Find me on the web:
- - Blog: [mostafawaleed.me/blog](https://mwtech.vercel.app/blog)
+ - Blog: [mwtech.vercel.app/blog](https://mwtech.vercel.app/blog)
  - Tweets: [@MostafaAmr_](https://twitter.com/MostafaAmr_)
  - LinkedIn: [in/mostafawaleed](https://www.linkedin.com/in/mostafawaleed/)
